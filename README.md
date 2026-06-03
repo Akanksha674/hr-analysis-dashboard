@@ -133,7 +133,7 @@ HR-Analytics-Dashboard/
 
 ## Dashboard Walkthrough
 
-🎥 [Watch Dashboard Demo](HR_Analytics_Dashboard_Promo.mp4)
+🎥 [Watch Dashboard Demo](dashboard-demo.mp4)
 
 ---
 
