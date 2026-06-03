@@ -21,7 +21,7 @@ This dashboard aims to answer key questions such as:
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](Screenshots/hr_analytics_dashboard.png)
+![HR Analytics Dashboard](Images/hr_analytics_dashboard.png)
 
 ---
 
